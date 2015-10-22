@@ -1,0 +1,12 @@
+{
+    "name": "do9iigane/shout",
+    "authors": [
+        {
+            "name": "do9iigane",
+            "email": "dokumegane@interestic.com"
+        }
+    ],
+    "require": {
+        "dg/twitter-php": "^3.5"
+    }
+}
